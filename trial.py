@@ -5,6 +5,7 @@ import numpy as np
 import cv2 as cv                         # Library for image processing
 from math import floor
 import keyboard
+import random
 
 
 frame_width=1366
