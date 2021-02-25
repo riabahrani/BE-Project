@@ -8,5 +8,6 @@ Webcam
 ## Technologies
 * OpenCV 
 * Flask
+* python
 
 
