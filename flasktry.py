@@ -4,7 +4,7 @@ from flask_cors import CORS
 import numpy as np
 import cv2                              # Library for image processing
 from math import floor
-import random
+
 
 
 frame_width = 1360
