@@ -6,6 +6,7 @@ import cv2 as cv                         # Library for image processing
 from math import floor
 import keyboard
 import random
+import pandas
 
 
 frame_width=1366
